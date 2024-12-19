@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: rgb(235, 227, 227);
+  height: 600px;
+  width: 90%;
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+}
+
+.card_one {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: white;
+  height: 200px;
+  width: 100%;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+
+.image_1 {
+  width: 150px;
+  align-items: center;
+}
